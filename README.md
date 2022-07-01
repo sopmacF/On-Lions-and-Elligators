@@ -12,7 +12,7 @@ The paper is available at https://eprint.iacr.org/2018/1198.pdf
 # Overview
 
 This archive contains the following 
-- `C` contains the C implementation of a constant-time version of CSIDH.
+- `C` contains the C implementation of a constant-time version of CSIDH based on [CSIDH](https://csidh.isogeny.org/).
 # Licenses
 
 Code in this repository that does not indicate otherwise is placed in the public domain. 
