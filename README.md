@@ -1,6 +1,6 @@
 # Introduction 
 
-This repository contains auxiliary material for the paper "On Lions and Elligators: An efficient constant-time implementation of CSIDH" which was accepted to [PQCrypto 2019](https://pqcrypto2019.org/).
+This repository contains auxiliary material for the paper ["On Lions and Elligators: An efficient constant-time implementation of CSIDH"](https://eprint.iacr.org/2018/1198) which was accepted to [PQCrypto 2019](https://pqcrypto2019.org/).
 
 Authors
  - Michael Meyer `<michael1.meyer@ur.de>`
